@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">RecuperacionRVA</string>
+
+    <string name="user">Usuario</string>
+    <string name="login">Login</string>
+    <string name="login_error">Usuario y/o contraseña incorrectos</string>
+
+    <string name="user_list">Lista de usuarios</string>
+    <string name="add_user">Nuevo usuario</string>
+    <string name="user_number">Número de usuarios:</string>
+    <string name="user_age">%1$d años</string>
+    <string name="modify_user_action_bar_message">%1$s(%2$s)</string>
+    <string name="add_button">Botón de añadir</string>
+
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="language">Idioma</string>
+
+    <string-array name="languages">
+        <item>Español (ES)</item>
+        <item>Gallego (GL)</item>
+        <item>Inglés (IN)</item>
+    </string-array>
+
+    <string name="age">Edad</string>
+    <string name="name">Nombre</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="error">Error</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+
+    <string name="acceptMessage">Los datos se guardarán en la base de datos. ¿Está seguro?</string>
+    <string name="cancelMessage">Los datos no se guardarán. ¿Está seguro?</string>
+    <string name="deleteMessage">Los datos se borrarán de la base de datos. ¿Está seguro?</string>
+    <string name="missing_fields">Faltan campos por rellenar</string>
+    <string name="invalid_email">El email que intenta introducir no es válido</string>
+    <string name="email_already_exists">El email que intenta introducir ya está registrado</string>
+    <string name="password_error">La contraseña debe contener como mínimo 5 caracteres</string>
+    <string name="name_error">El nombre debe contener como mínimo 3 caracteres</string>
+    <string name="admin_user_delete_error">No se puede eliminar a un usuario administrador</string>
+    <string name="admin_user_modify_error">No se puede modificar a un usuario administrador</string>
 </resources>
